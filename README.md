@@ -5,7 +5,10 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
 ## Ben Kimim ?
 ```
-Kariyerine web developer olarak devam etmek isteyen bir makine mühendisiyim. Bir süredir    çeşitli kaynaklarla kendimi geliştirmekteyim. Askerlik görevimi tamamladım. Önümüzdeki yazdan itibaren hayatımı yazılım alanından kazanmak istemekteyim.
+Kariyerine web developer olarak devam etmek isteyen bir makine mühendisiyim.
+Bir süredir çeşitli kaynaklarla kendimi geliştirmekteyim.
+Askerlik görevimi tamamladım. Önümüzdeki yazdan itibaren hayatımı yazılım
+alanından kazanmak istemekteyim.
 ```
 ## Eğitim kaynaklarım ?
 * Angela Yu - The Complate 2022 Web Development
